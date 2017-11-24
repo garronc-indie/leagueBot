@@ -2,8 +2,9 @@
   "name": "leaguebot",
   "version": "1.0.0",
   "description": "Bot that queries the Riot API for updates on certain League of Legends players",
-  "main": "app.js",
+  "main": "app.ts",
   "scripts": {
+    "start": "node app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
