@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/garronc-indie/leagueBot/issues"
   },
-  "homepage": "https://github.com/garronc-indie/leagueBot#readme"
+  "homepage": "https://github.com/garronc-indie/leagueBot#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node": "^9.2.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.53"
+  }
 }
